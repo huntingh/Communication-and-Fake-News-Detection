@@ -23,7 +23,7 @@ For each version I
  - Changed the max_length variable at the top of the cell. 
  - Copy and pasted a section of the version code. 
 	 - In image 2, the start of version 0 is visible. Version 0 was the code used in the original experiment. 
-	 - Increased the new version identifiier to an unused number.
+	 - Increased the new version identifier to an unused number.
 	 - Changed the word length in the function to match the new max_length value. 
  - Changed the version variable to match the new version identifier.  
 	 - The second edited cell was 
