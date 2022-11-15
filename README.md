@@ -1,4 +1,4 @@
-# ECE570-Project
+# Communication and Fake News Detection Using Machine Learning
 
 ## Running the Experiments
 ### Github
